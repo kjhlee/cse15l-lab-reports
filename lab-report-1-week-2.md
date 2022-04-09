@@ -19,7 +19,7 @@ cs15lsp22abc@ieng6.ucsd.edu
 __Note: use your account, it most likely wont be abc__
 
 It should prompt you for a password 
-![image](password.png) 
+-![image](password.png) 
 Type in your password and it should look like this!
 
 __Note: The computer isn't going to make little asteriks when you type your password. It will look blank. Just type in your password and press enter when done__
