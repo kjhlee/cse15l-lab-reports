@@ -5,7 +5,11 @@ First make sure that you have done the prerequiste for the lab by changing your 
 ## VS Code
 We will start by opening vs code and opening the terminal
 It should look a little something like this
+
+
 ![image](VScode.png)
+
+
 
 ## Remotely logging in
 Once completed we can log into our account
