@@ -3,6 +3,6 @@
 
 _Example 1_
 _Link with no ending parenthesis_
-![image](lab report 2 / images / file1.png)
+![image](images/file1.png)
 
 # testing
