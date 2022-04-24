@@ -28,7 +28,7 @@ There is an error when trying to run this code due to the fact that the second l
         at MarkdownParse.getLinks(MarkdownParse.java:29)
         at MarkdownParse.main(MarkdownParse.java:40)`
 
-This is an interesting error for the code. The failure inducing code is that for the links we don't have parenthesis but actually we have brackets. The error comes from trying to find the start and ending parenthesis. Because we never find it the code ends up inducing a out of memory error. This is also synonymous with the symptom of the code. Our code is trying to read the link of the code but because there is never a parenthesis it is never given.
+This is an interesting error for the code. The failure inducing code is that for the links we don't have parenthesis but actually we have brackets. The error comes from trying to find the start and ending parenthesis. Because we never find it the code ends up inducing out of bounds error. This is also synonymous with the symptom of the code. Our code is trying to read the link of the code but because there is never a parenthesis it is never given.
 
 ### _Example 3_
 ### _Link with double parenthesis_
