@@ -20,7 +20,7 @@ There is an error when trying to run this code due to the fact that the second l
 This is an interesting error for the code. The failure inducing code is that for the links we don't have parenthesis but actually we have brackets. The error comes from trying to find the start and ending parenthesis. Because we never find it the code ends up inducing a out of memory error. This is also synonymous with the symptom of the code. Our code is trying to read the link of the code but because there is never a parenthesis it is never given.
 
 ### _Example 3_
-### _Link with only brackets_
+### _Link with double parenthesis_
 ![image](images/file3.png)
 [Link to error](https://github.com/kjhlee/markdown-parser/commit/90b30cc4d7fa367c22d6e0f3452a330701ef7b96)
 
