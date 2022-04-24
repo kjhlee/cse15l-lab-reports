@@ -16,3 +16,5 @@ There is an error when trying to run this code due to the fact that the second l
 
 ### _Symptom_
 ![image](images/error2.png)
+
+This is an interesting error for the code. The failure inducing 
