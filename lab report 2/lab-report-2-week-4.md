@@ -22,6 +22,7 @@ This is an interesting error for the code. The failure inducing code is that for
 ### _Example 3_
 ### _Link with only brackets_
 ![image](images/file2.png)
+[Link to error](https://github.com/kjhlee/markdown-parser/commit/90b30cc4d7fa367c22d6e0f3452a330701ef7b96)
 
 ### _Symptom_
 ![image](images/error2.png)
