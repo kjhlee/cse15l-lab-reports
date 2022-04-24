@@ -4,6 +4,7 @@
 ### _Example 1_
 ### _Link with no ending parenthesis_
 ![image](images/file1.png)
+[Link to error](https://github.com/kjhlee/markdown-parser/commit/f1c4a74f46d45a298c460a4ec4ac9260b0f878af)
 
 ### _Symptom_
 `Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin 46, end -1, length 58
@@ -11,7 +12,7 @@
         at java.base/java.lang.String.substring(String.java:2704)
         at MarkdownParse.getLinks(MarkdownParse.java:29)
         at MarkdownParse.main(MarkdownParse.java:40)`
-[Link to error](https://github.com/kjhlee/markdown-parser/commit/f1c4a74f46d45a298c460a4ec4ac9260b0f878af)
+      
 
 There is an error when trying to run this code due to the fact that the second link is missing a parenthesis. The symptom of this code is shown in our error statement. Because our code never found the missing parenthesis we get an error showing that the parse is running but the closing parenthesis is nowhere to be found.
 
