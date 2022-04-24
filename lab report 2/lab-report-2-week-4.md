@@ -7,12 +7,14 @@
 
 ### _Symptom_
 ![image](images/error1.png)
+[Link to error](https://github.com/kjhlee/markdown-parser/commit/f1c4a74f46d45a298c460a4ec4ac9260b0f878af)
 
 There is an error when trying to run this code due to the fact that the second link is missing a parenthesis. The symptom of this code is shown in our error statement. Because our code never found the missing parenthesis we get an error showing that the parse is running but the closing parenthesis is nowhere to be found.
 
 ### _Example 2_
 ### _Link with only brackets_
 ![image](images/file2.png)
+[Link to error](https://github.com/kjhlee/markdown-parser/commit/f6fdf4934c1e2fc0a2a6b108bd4dae77ca58db8b)
 
 ### _Symptom_
 ![image](images/error2.png)
@@ -26,3 +28,5 @@ This is an interesting error for the code. The failure inducing code is that for
 
 ### _Symptom_
 ![image](images/error3.png)
+
+The problem with this initial link is that it has double parenthesis. The failure inducing code has a set of parenthesis located inside of the original set, causing the code to run out of memory. Because the code recognizes the double bracket it doesn't know how to add the text of parenthesis into the array. 
