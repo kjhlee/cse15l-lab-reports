@@ -20,3 +20,5 @@ Once you enter this in the terminal should take you into a new empty file where 
         HostName ieng6.ucsd.edu
         User cs15lsp22zzz (use your username)
 ```
+It should look a little like this
+![image](images/hostCode.png)
