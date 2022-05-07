@@ -47,3 +47,5 @@ Here is a little picture of me commiting to the terminal from my local device
 
 This is a link to the resulting commit
 [Click Here](https://github.com/kjhlee/cse15l-lab-reports/commit/63d76ed78cbc8d381eea6ba6fd74de50b7fa530b)
+
+### Copying Directories using -r
