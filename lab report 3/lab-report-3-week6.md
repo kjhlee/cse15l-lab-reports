@@ -17,6 +17,6 @@ Once we are in the ssh directory we want to create a new file using the command
 Once you enter this in the terminal should take you into a new empty file where you will copy this code in 
 ```
     Host ieng6
-    HostName ieng6.ucsd.edu
-    User cs15lsp22zzz (use your username)
+        HostName ieng6.ucsd.edu
+        User cs15lsp22zzz (use your username)
 ```
