@@ -1,4 +1,5 @@
-___ Streamlining Your SSH Account ___
+#Lab Report 3
+###Streamlining Your SSH Account
 
 When were logging in remotely we often have to type the unbearable ssh cs15lsp22abc@ieng6.ucsd.edu which can get tetious and is prone to many errors.
 
@@ -29,4 +30,4 @@ Heres an example of me copying a file from my local computer to the remote serve
 ![image](images/scp.png)
 
 
-___ Github Access from ieng6 ___
+###Github Access from ieng6
