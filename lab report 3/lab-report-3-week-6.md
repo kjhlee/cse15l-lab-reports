@@ -32,3 +32,14 @@ Heres an example of me copying a file from my local computer to the remote serve
 
 ### Github Access from ieng6
 
+Here is where my SSH key is located
+
+![image](images/sshkey.png)
+
+Here is where it is stored in my computer
+
+![image](images/location.png)
+
+Here is a little picture of me commiting to the terminal from my local device
+
+![image](images/committingLocally.png)
