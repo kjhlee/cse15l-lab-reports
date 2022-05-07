@@ -23,6 +23,6 @@ Once you enter this in the terminal should take you into a new empty file where 
 It should look a little like this
 ![image](images/hostCode.png)
 
-After that, you're done! you should be able to type ssh ieng6 and it should instantly log in like this!
+Heres an example of me copying a file from my local computer to the remote server!
 
-![image](images/streamLine.png)
+[image](images/scp.png)
