@@ -22,3 +22,7 @@ Once you enter this in the terminal should take you into a new empty file where 
 ```
 It should look a little like this
 ![image](images/hostCode.png)
+
+After that, you're done! you should be able to type ssh ieng6 and it should instantly log in like this!
+
+![image](images/streamLine.png)
