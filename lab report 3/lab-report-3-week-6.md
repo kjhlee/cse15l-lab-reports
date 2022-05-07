@@ -25,4 +25,4 @@ It should look a little like this
 
 Heres an example of me copying a file from my local computer to the remote server!
 
-[image](images/scp.png)
+![image](images/scp.png)
