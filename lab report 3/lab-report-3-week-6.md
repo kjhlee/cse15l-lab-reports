@@ -21,8 +21,12 @@ Once you enter this in the terminal should take you into a new empty file where 
         User cs15lsp22zzz (use your username)
 ```
 It should look a little like this
+
 ![image](images/hostCode.png)
 
 Heres an example of me copying a file from my local computer to the remote server!
 
 ![image](images/scp.png)
+
+
+___ Github Access from ieng6 ___
