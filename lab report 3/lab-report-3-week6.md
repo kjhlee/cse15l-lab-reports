@@ -11,5 +11,5 @@ Start by opening your terminal in whatever device you are using, we want to star
 Once we are in the ssh directory we want to create a new file using the command 
 `nano config`
 
-![image](sshconfig.png)
+![image](images/sshconfig.png)
 This should take you to opening a new config file where you will copy paste this code
