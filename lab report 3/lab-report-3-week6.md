@@ -12,4 +12,6 @@ Once we are in the ssh directory we want to create a new file using the command
 `nano config`
 
 ![image](images/sshconfig.png)
+
+
 This should take you to opening a new config file where you will copy paste this code
