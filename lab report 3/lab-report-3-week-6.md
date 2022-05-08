@@ -49,3 +49,6 @@ This is a link to the resulting commit
 [Click Here](https://github.com/kjhlee/cse15l-lab-reports/commit/63d76ed78cbc8d381eea6ba6fd74de50b7fa530b)
 
 ### Copying Directories using -r
+This is what it looks like when I copy my code into ieng6 using -r
+
+![image](images/-r.png)
