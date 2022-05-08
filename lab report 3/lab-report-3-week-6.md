@@ -52,3 +52,17 @@ This is a link to the resulting commit
 This is what it looks like when I copy my code into ieng6 using -r
 
 ![image](images/-r.png)
+
+Here is the evidence that it was copied into the server
+
+![image](images/evidence.png)
+
+To copy the whole directory into one line we would use this code
+
+``` 
+scp -r . ieng6:~/copy; javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; ssh ieng6; cd markCopy; java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest
+```
+
+This is what it should look like
+
+![image](images/copyinline.png)
