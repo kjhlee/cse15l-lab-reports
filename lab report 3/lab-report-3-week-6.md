@@ -36,9 +36,9 @@ Here is where my SSH key is located
 
 ![image](images/sshkey.png)
 
-Here is where it is stored in my computer
+Here is where it is stored in my ssh account
 
-![image](images/location.png)
+![image](images/keyFound.png)
 
 Here is a little picture of me commiting to the terminal from my local device
 
@@ -65,4 +65,4 @@ scp -r . ieng6:~/copy; javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.ja
 
 This is what it should look like
 
-![image](images/copyinline.png)
+![image](images/copyinline.png)   
