@@ -60,9 +60,9 @@ Here is the evidence that it was copied into the server
 To copy the whole directory into one line we would use this code
 
 ``` 
-scp -r . ieng6:~/copy; javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; ssh ieng6; cd markCopy; java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest
+scp -r *.java *.md lib/ ieng6:markdown-parse ssh cs15lsp22aay@ieng6.ucsd.edu; javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest
 ```
 
 This is what it should look like
 
-![image](images/copyinline.png)   
+![image](images/newOneLine.png)   
