@@ -34,7 +34,7 @@ Heres an example of me copying a file from my local computer to the remote serve
 
 Here is where my SSH key is located
 
-![image](images/sshkey.png)
+![image](images/location2.png)
 
 Here is where it is stored in my ssh account
 
