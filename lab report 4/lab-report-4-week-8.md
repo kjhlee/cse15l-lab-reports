@@ -10,12 +10,15 @@
 
 [`code]`](ucsd.edu)
 ```
-
+This is the expected result: 
+```
+{url.com, `google.com, google.com}
+```
 Test for snippet 1: 
-![image](images/testSnippet1.png)
+![image](images/snip1.png)
 
 This is the result for running the test in my own impelementation: 
-![image](images/resultSnippet1.png)
+![image](images/res1.png)
 
 This is the result for running the test in my groups week 7 implementation:
 ![image](images/res7-1.png)
