@@ -18,4 +18,4 @@ This is the result for running the test in my own impelementation:
 ![image](images/resultSnippet1.png)
 
 This is the result for running the test in my groups week 7 implementation:
-
+![image](images/res7-1.png)
