@@ -6,6 +6,8 @@ I'm making __CHANGES__ to my *WEBPAGE!!!*
 
 * [Lab Report 2](https://kjhlee.github.io/cse15l-lab-reports/lab%20report%202/lab-report-2-week-4.html)
 
-*  [Lab Report 3](https://kjhlee.github.io/cse15l-lab-reports/lab%20report%203/lab-report-3-week-6.html)
+* [Lab Report 3](https://kjhlee.github.io/cse15l-lab-reports/lab%20report%203/lab-report-3-week-6.html)
+
+* [Lab Report 4](https://kjhlee.github.io/cse15l-lab-reports/lab%20report%204/lab-report-4-week-8.html)
 
 * [Second Page](https://kjhlee.github.io/cse15l-lab-reports/secondPage.html)
