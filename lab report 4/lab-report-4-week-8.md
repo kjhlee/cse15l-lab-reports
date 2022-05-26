@@ -5,7 +5,6 @@
 * [Week 7](https://github.com/khiemddang/markdown-parser)
 #### Code Snippet 1
 This is the expected result: 
-
 ```
 {url.com, `google.com, google.com}
 ```
@@ -25,7 +24,6 @@ This is the expected result:
 ```
 {a.com, a.comn(())}
 ```
-
 Test for snippet 2: 
 ![image](images/snip2.png)
 
@@ -37,8 +35,8 @@ This is the result for running the test in my groups week 7 implementation:
 
 
 ### Code Snippet #3
-
 This is the expected result:
+
 ```
 {https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule}
 ```
@@ -64,5 +62,4 @@ It would look something like this where we check the index of bracket + 1 and if
 
 3. Code Snippet 3 has some problems that I believe could not be solved in less than 10 lines. The major problems would be traversing through emtpy spaces, I don't really know how I would be able to look for spaces and skip those spaces while also trying to find the links. 
 
-print hello
 
