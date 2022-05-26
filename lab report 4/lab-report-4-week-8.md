@@ -9,7 +9,7 @@
 This is the expected result: 
 
 ```
-{url.com, `google.com, google.com}
+{`google.com, google.com, ucsd.edu}
 ```
 
 Test for snippet 1: 
@@ -26,7 +26,7 @@ This is the result for running the test in my groups week 7 implementation:
 
 This is the expected result:
 ```
-{a.com, a.comn(())}
+{a.com, a.com((, example.com}
 ```
 
 Test for snippet 2: 
@@ -44,7 +44,7 @@ This is the result for running the test in my groups week 7 implementation:
 This is the expected result:
 
 ```
-{https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule}
+{https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule}
 ```
 
 Test for snippet 2: 
