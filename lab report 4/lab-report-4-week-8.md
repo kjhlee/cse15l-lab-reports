@@ -26,6 +26,7 @@ This is the result for running the test in my own impelementation:
 This is the result for running the test in my groups week 7 implementation:
 ![image](images/res7-1.png)
 
+
 ### Code Snippet 2
 ```
 [a [nested link](a.com)](b.com)
