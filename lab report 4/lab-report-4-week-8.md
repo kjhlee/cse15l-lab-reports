@@ -12,7 +12,7 @@
 [`cod[e`](google.com)
 
 [`code]`](ucsd.edu)
-```
+
 This is the expected result: 
 ```
 {url.com, `google.com, google.com}
