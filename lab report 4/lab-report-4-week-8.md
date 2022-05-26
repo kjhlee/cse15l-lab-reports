@@ -3,11 +3,15 @@
 *repo links*
 * [My markdown](https://github.com/kjhlee/markdown-parser)
 * [Week 7](https://github.com/khiemddang/markdown-parser)
+
+
 #### Code Snippet 1
 This is the expected result: 
+
 ```
 {url.com, `google.com, google.com}
 ```
+
 Test for snippet 1: 
 ![image](images/snip1.png)
 
@@ -24,6 +28,7 @@ This is the expected result:
 ```
 {a.com, a.comn(())}
 ```
+
 Test for snippet 2: 
 ![image](images/snip2.png)
 
@@ -35,11 +40,13 @@ This is the result for running the test in my groups week 7 implementation:
 
 
 ### Code Snippet #3
+
 This is the expected result:
 
 ```
 {https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule}
 ```
+
 Test for snippet 2: 
 ![image](images/snip3.png)
 
