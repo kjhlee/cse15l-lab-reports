@@ -1,4 +1,13 @@
 # Lab Report 5
+
+# Questions:
+* I mainly found the tests with differing results using vimdiff. I liked using vimdiff because it was easy to see when two different files came out with two different results. Then from there I would just look into the test files and look at that specific test file and copy it into the commonmark.js to see what the result should be.
+
+# Link's to files: 
+* [testfile22](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/22.md)
+* Test file 578 was ommitted from the github directory because there were too many files so instead here is an image of what was inside the file
+* ![image](images/file578.png)
+
 ### Test 1 
 For this test I will be using test 22
 
