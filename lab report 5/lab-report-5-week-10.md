@@ -5,7 +5,8 @@
 
 # Link to files: 
 * [testfile22](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/22.md)
-* Test file 578 was ommitted from the github directory because there were too many files so instead here is an image of what was inside the file: ![image](images/file578.png)
+* Test file 578 was ommitted from the github directory because there were too many files so instead here is an image of what was inside the file: 
+![image](images/file578.png)
 
 
 ### Test 1 
