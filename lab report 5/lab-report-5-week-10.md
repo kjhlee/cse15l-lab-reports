@@ -2,7 +2,7 @@
 ### Test 1 
 For this test I will be using test 22
 
-![image](images/test22)
+![image](images/test22.png)
 
 #### This is the common mark output
 ![image](images/cm22.png)
@@ -16,7 +16,7 @@ The reason that my implementation is giving me an error for this test is because
 ### Test 2
 For this test I will be using test 578
 
-![image](images/test578)
+![image](images/test578.png)
 
 #### This is the common mark output
 ![image](images/cm578.png)
